@@ -4,7 +4,7 @@ use Large Language Model (LLMs) instead of just treating an LLM as a chatbot it 
 to chain the external data sources, tools and memory to build complex context-aware AI App.
 
 # LangGraph API
-    LangGraph provides a Pythonic interface to build and execute agentic workflows using 
+LangGraph provides a Pythonic interface to build and execute agentic workflows using 
 graph structures. The API is modular, allowing the practitioner to define nodes, edges and
 state transitions with clarity.
 
